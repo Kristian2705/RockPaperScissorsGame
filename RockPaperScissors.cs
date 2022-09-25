@@ -1,9 +1,10 @@
 ﻿namespace RockPaperScissorsGame
 {
     using System;
+
     internal class RockPaperScissors
     {
-        static void Main(string[] args)
+        static void Main()
         {
             const string rock = "Rock";
             const string paper = "Paper";
